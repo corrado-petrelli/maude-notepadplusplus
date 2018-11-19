@@ -16,3 +16,6 @@ Language Definition for Maude in Notepad++.
  - Click on Language (on the Menu Bar)
  - Select the language (usually it is on the bottom)
 
+## Contributing
+
+Every contribution is welcome, send a pull request please.
