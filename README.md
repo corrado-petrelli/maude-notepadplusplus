@@ -18,4 +18,4 @@ Language Definition for Maude in Notepad++.
 
 ## Contributing
 
-Every contribution is welcome, send a pull request please.
+~~Every contribution is welcome, send a pull request please.~~
